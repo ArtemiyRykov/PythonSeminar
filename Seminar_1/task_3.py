@@ -10,4 +10,4 @@ if number < 0:
 list_of_number = []
 for num in range(-number, number + 1):
     list_of_number.append(num)
-print(list_of_number)    
+    print(list_of_number)    
